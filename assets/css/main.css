@@ -2611,7 +2611,7 @@ input, select, textarea {
 			input[type="reset"].alt.icon:before,
 			input[type="button"].alt.icon:before,
 			.button.alt.icon:before {
-				color: #aaa;
+				color: #9ce2f7;
 			}
 
 		input[type="submit"].primary,
@@ -2701,7 +2701,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #9ce2f7;
-		color: #d2f2e9;
+		color: #9ce2f7;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
